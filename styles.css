@@ -56,10 +56,38 @@ body {
   transform: translate3d(0, 0, 0) translateY(50%);
   transition: opacity 0.5s ease, transform 0.5s ease;
 }
-.tl-item:hover,
-.tl-item.proximo {
-  width: 40% !important;
+
+@media (max-width: 47em) {
+  .tl-item:hover,
+  .tl-item.proximo {
+    width: 200% !important;
+  }
 }
+@media (min-width: 47em) {
+  .tl-item:hover,
+  .tl-item.proximo {
+    width: 150% !important;
+  }
+}
+@media (min-width: 68em) {
+  .tl-item:hover,
+  .tl-item.proximo {
+    width: 80% !important;
+  }
+}
+@media (min-width: 82em) {
+  .tl-item:hover,
+  .tl-item.proximo {
+    width: 60% !important;
+  }
+}
+@media (min-width: 100em) {
+  .tl-item:hover,
+  .tl-item.proximo {
+    width: 40% !important;
+  }
+}
+
 .tl-item:hover:after {
   opacity: 0;
 }
