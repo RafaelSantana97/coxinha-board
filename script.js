@@ -110,6 +110,7 @@ const sequencia = [
   {
     nome: "Baby Face",
     img: "babyface.jpg"
+  }
 ]
 
 function start() {
