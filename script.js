@@ -88,10 +88,6 @@ const sequencia = [
     img: "natalia.jpeg"
   },
   {
-    nome: "Crossfit",
-    img: "crossfit.jpg"
-  },
-  {
     nome: "Costa Rica",
     img: "costa-rica.jpeg"
   },
@@ -100,8 +96,16 @@ const sequencia = [
     img: "chefaco.jpg"
   },
   {
+    nome: "Crossfit",
+    img: "crossfit.jpg"
+  },
+  {
     nome: "Laion",
     img: "laion.jpg"
+  },
+  {
+    nome: "Henry",
+    img: "henry.jpg"
   },
   {
     nome: "Fernando",
