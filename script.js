@@ -96,20 +96,20 @@ const sequencia = [
     img: "chefaco.jpg"
   },
   {
-    nome: "Crossfit",
-    img: "crossfit.jpg"
-  },
-  {
     nome: "Laion",
     img: "laion.jpg"
   },
   {
-    nome: "Henry",
-    img: "henry.jpg"
+    nome: "Crossfit",
+    img: "crossfit.jpg"
   },
   {
     nome: "Fernando",
     img: "fernando.jpg"
+  },
+  {
+    nome: "Henry",
+    img: "henry.jpg"
   },
   {
     nome: "Baby Face",
